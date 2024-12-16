@@ -10,6 +10,4 @@
 
 ## VL links
 
-[Link1: razergergw](https://razergergw1.sas.com/guacamole)
-
-[Link2: razergergw2](https://razergergw2.sas.com/guacamole)
+[Live web link](https://labs.liveweb.sas.com/logon/LogonPoint/)
