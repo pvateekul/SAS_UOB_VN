@@ -9,3 +9,16 @@
 ## VL links
 
 [Live web link](https://labs.liveweb.sas.com/logon/LogonPoint/)
+
+## Course Evaluaiton links
+
+[Evaluation link (same link for all courses](https://go.sas.com/evalslogin)
+
+Username is your company email.
+
+Passwords are listed below.
+* 16-17 YVA11D – use password 3769073
+* 18-19 BDID0D – use password 3777851
+* 20 VSTU1C – use password 3778100
+
+
