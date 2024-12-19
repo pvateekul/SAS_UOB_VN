@@ -16,7 +16,7 @@
 
 ## Course Evaluaiton links
 
-[Evaluation link (same link for all courses](https://go.sas.com/evalslogin)
+[Evaluation link (same link for all courses)](https://go.sas.com/evalslogin)
 
 Username is your company email.
 
